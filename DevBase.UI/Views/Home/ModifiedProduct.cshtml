@@ -1,0 +1,27 @@
+﻿@model DevBase.Entities.DTOs.ProductDto
+
+@{
+    Layout = "_DevBaseLayout";
+}
+<form method="post" class="w-75 mx-auto py-4">
+    <div class="card">
+        <div class="card-body">
+            <h3 class="text-center" style="font-family: 'Roboto Slab', serif; letter-spacing: 1px; ">Update Product</h3>
+            <hr class="border-success">
+            <div class="form-group">
+                <input type="text" asp-for="@Model.ProductName" class="form-control" placeholder="Product Name">
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="number" asp-for="@Model.ProductPrice" class="form-control" placeholder="Product Price">
+            </div>
+            <br>
+            <div class="text-center">
+                <button type="submit" class="btn btn-outline-success">Update</button>
+                <a asp-controller="Home" asp-action="Index" class="btn btn-danger">Turn Back</a>
+
+            </div>
+        </div>
+    </div>
+
+</form>

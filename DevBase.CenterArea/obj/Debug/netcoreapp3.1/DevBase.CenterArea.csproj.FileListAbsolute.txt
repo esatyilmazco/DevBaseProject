@@ -1,0 +1,12 @@
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\bin\Debug\netcoreapp3.1\DevBase.CenterArea.deps.json
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\bin\Debug\netcoreapp3.1\DevBase.CenterArea.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\bin\Debug\netcoreapp3.1\DevBase.CenterArea.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.AssemblyInfo.cs
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\bin\Debug\netcoreapp3.1\DevBase.CenterArea.runtimeconfig.json
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\bin\Debug\netcoreapp3.1\DevBase.CenterArea.runtimeconfig.dev.json
+D:\Asp.netCoreMVC\DevBase\DevBase.CenterArea\obj\Debug\netcoreapp3.1\DevBase.CenterArea.genruntimeconfig.cache

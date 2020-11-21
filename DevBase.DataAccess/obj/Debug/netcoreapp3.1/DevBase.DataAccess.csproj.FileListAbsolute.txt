@@ -1,0 +1,17 @@
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.deps.json
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.runtimeconfig.json
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.runtimeconfig.dev.json
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.DataAccess.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.CenterArea.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.CenterArea.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.AssemblyInfo.cs
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.csproj.CopyComplete
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.DataAccess\obj\Debug\netcoreapp3.1\DevBase.DataAccess.genruntimeconfig.cache

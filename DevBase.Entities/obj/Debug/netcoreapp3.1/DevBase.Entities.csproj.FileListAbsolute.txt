@@ -1,0 +1,15 @@
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.Entities.deps.json
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.Entities.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.Entities.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.CenterArea.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.CenterArea.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.csprojAssemblyReference.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.AssemblyInfoInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.AssemblyInfo.cs
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.csproj.CoreCompileInputs.cache
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.csproj.CopyComplete
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.dll
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.pdb
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.Entities.runtimeconfig.json
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\bin\Debug\netcoreapp3.1\DevBase.Entities.runtimeconfig.dev.json
+D:\Asp.netCoreMVC\DevBase\DevBase.Entities\obj\Debug\netcoreapp3.1\DevBase.Entities.genruntimeconfig.cache
